@@ -1,0 +1,142 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    background-color: green;
+}
+
+#h1{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 0%;
+}
+#hero{
+background-color: white;
+padding: 0%;
+box-sizing: border-box;
+}
+.top-bar{
+    padding: 10px;
+    
+}
+.top-button{
+    float: right;
+    position: relative;
+}
+.top-button a{
+    margin: 0px 8px;
+    padding: 8px 20px;
+    border-radius: 50px;
+    background: #000;
+    text-decoration: none;
+    border: 2px solid yellow;
+    justify-content: center;
+}
+
+
+
+a{
+    text-decoration: none;
+    outline: none;
+}
+.footer-main-div{
+    width: 100%;
+    height: auto;
+    margin: auto;
+    background: #272727;
+    padding: 20px 0px;
+}
+.footer-social-icons{
+    width: 100%;
+    height: auto;
+    margin: auto;
+}
+.footer-social-icons{
+    margin:0px;
+    padding: 0px;
+    text-align: center;
+}
+.footer-social-icons ul li{
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    margin: 0px 10px ;
+    border-radius: 100%;
+    background: blue;
+}
+.footer-social-icons ul li a{
+    color: white;
+    font-size: 25px;
+    display: block;
+}
+.footer-social-icons ul li a i{
+line-height: 50px;
+}
+.footer-menu-one{
+    width: 100%;
+    height: auto;
+    margin: auto;
+    margin-top: 20px;
+}
+.footer-menu-one ul{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+.footer-menu-one ul li{
+    display: inline-block;
+    margin:  0px 20px;
+}
+.footer-menu-one ul li a{
+    font-family: arial;
+    font-size: 16px;
+    font-weight: 600;
+    color: black;
+    text-transform: uppercase;
+}
+.footer-menu-two{
+    width: 100%;
+    height: auto;
+    margin: auto;
+    margin-top: 10px;
+}
+.footer-menu-two ul{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+.footer-menu-two ul li{
+    display: inline-block;
+    margin:  0px 20px;
+}
+.footer-menu-two ul li a{
+    font-family: arial;
+    font-size: 16px;
+    font-weight: 600;
+    color: rebeccapurple;
+    text-transform: uppercase;
+}
+.footer-menu-two ul li a{
+    color: #272727;
+}
+.footer-bottom{
+    width: 100%;
+    height: auto;
+    margin: auto;
+    background: yellowgreen;
+    padding: 5px;
+}
+.footer-bottom p{
+    font-family: arial;
+    font-size: 14px;
+    text-align: center;
+    color: #fff;
+    font-weight: 600;
+    letter-spacing: 2px;
+}
+.footer-bottom p a{
+    color: #fff;
+}
+.footer-bottom p a:hover{
+    color: #272727;
+
+}

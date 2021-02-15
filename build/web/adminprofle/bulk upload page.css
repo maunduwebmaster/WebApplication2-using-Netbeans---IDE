@@ -1,0 +1,10 @@
+*{
+    background-color: green;
+}
+p{
+    font-weight: bold;
+    font-size: 30px;
+}
+button{
+    color: red;
+}

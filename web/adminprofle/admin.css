@@ -1,0 +1,40 @@
+*{
+    background-image :url(98.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+.size{
+    height: 220px;
+    width: 220px;
+    list-style-image: none;
+}
+.head{
+    font-size: 20px;
+    text-decoration:#fff;
+    text-align: center;
+    font-weight: bold;text-decoration-color: blue;
+    
+}
+.top-bar{
+    float: right;
+    margin: 0px 8px;
+    padding: 8px 20px;
+    border-radius: 80px;
+    background: white;
+    text-decoration: none;
+    border: 8px solid yellow;
+    border-block: 20px;
+    font-weight: bold;
+}
+h2,h3{
+    font-weight: bold;
+    font-family: serif;
+    background: brown;
+}
+a{
+    text-align: center;
+    font-weight: bold;
+    background: black;
+}.Total {
+
+}
